@@ -1,0 +1,8 @@
+{
+    "stm32-for-vscode.makePath": false,
+    "files.associations": {
+        "main.h": "c",
+        "font.h": "c",
+        "dino.h": "c"
+    }
+}
